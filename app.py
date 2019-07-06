@@ -25,5 +25,5 @@ class Instagram:
 
 
 
-ob = Instagram('singavi__','singavi__1411')
+ob = Instagram('randomUser','randomPass')
 ob.login()
